@@ -19,3 +19,4 @@ This project is a serverless middleware solution designed to automate the synchr
 - Atlassian Document Format (ADF)
 
 Built with Azure Logic Apps and Atlassian APIs.
+commencing integration test
