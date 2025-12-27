@@ -1,0 +1,10 @@
+{
+  "serviceName": "Atlassian-Integration-Service",
+  "version": "1.2.0",
+  "environment": "production",
+  "features": {
+    "autoComment": true,
+    "slackNotifications": false,
+    "retryPolicy": "exponential_backoff"
+  }
+}
