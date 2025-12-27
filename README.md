@@ -17,3 +17,5 @@ This project is a serverless middleware solution designed to automate the synchr
 - Azure Logic Apps
 - JSON Schema Validation
 - Atlassian Document Format (ADF)
+
+Built with Azure Logic Apps and Atlassian APIs.
